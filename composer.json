@@ -1,0 +1,20 @@
+{
+    "name": "elvisoliveira/growt",
+    "type": "project",
+    "require": {
+        "paquettg/php-html-parser": "^3.1",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Elvisoliveira\\Growt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elvis Oliveira",
+            "email": "elvis.olv@gmail.com"
+        }
+    ]
+}
